@@ -1,0 +1,1 @@
+"""TalentScreen — Agente de screening con auditoría de sesgo."""

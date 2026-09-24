@@ -1,0 +1,1 @@
+"""EnergySaver — Agente de auditoría energética."""

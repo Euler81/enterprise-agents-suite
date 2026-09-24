@@ -1,0 +1,1 @@
+"""AgentClaim — Agente de liquidación de siniestros."""

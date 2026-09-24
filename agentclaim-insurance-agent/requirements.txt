@@ -1,0 +1,3 @@
+# Core 100% stdlib Python 3.10+. Opcionales para extensiones:
+# openai>=1.30.0
+# pandas>=2.0

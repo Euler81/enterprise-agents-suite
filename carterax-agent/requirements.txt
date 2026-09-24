@@ -1,0 +1,5 @@
+# El core corre 100% con stdlib de Python 3.10+.
+# Opcionales para extensiones:
+# openai>=1.30.0
+# pandas>=2.0
+# python-dotenv>=1.0.0

@@ -1,0 +1,1 @@
+"""StockGuard — Agente de inventario."""
