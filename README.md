@@ -1,4 +1,4 @@
-# 🧠 Agentes Enterprise — Portfolio Taligent Spring Camp 2026
+# 🧠 Agentes Enterprise — Portfolio 
 
 Suite de **9 agentes de IA enterprise** construidos en Python puro, todos
 siguiendo el ciclo de trabajo **Planner → Execute → Verify** con el patron
